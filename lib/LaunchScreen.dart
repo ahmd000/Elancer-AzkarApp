@@ -34,7 +34,7 @@ class _LaunchScreenState extends State<LaunchScreen> {
               fit: BoxFit.cover
         )),
         child: Center(
-          child: Text("AZKAR" , style: TextStyle(
+          child: Text("أذكاري" , style: TextStyle(
             fontSize: 40
           ),),
         ),

@@ -158,7 +158,7 @@ SizedBox(height: 30,),
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      "Info:",
+                      "نبذة...",
                       style: TextStyle(
                           color: Colors.white,
                           fontStyle: FontStyle.normal,
@@ -168,9 +168,7 @@ SizedBox(height: 30,),
                       height: 10.0,
                     ),
                     Text(
-                      """  Thank for your checking my profile, Hi, I am Ahmed H. Al-Moqayed, a Flutter for both device Android and iOS Applications Developer with extensive experience in this field
-""",
-                      style: TextStyle(
+                      "" "شكرًا لك على التحقق من ملفي الشخصي ، مرحبًا ، أنا أحمد حسن المقيد ، أنا مطور Flutter لكلا الجهازين Android و iOS مطور تطبيقات مع خبرة واسعة في هذا المجال" "" ,                      style: TextStyle(
                         fontSize: 22.0,
                         fontStyle: FontStyle.italic,
                         fontWeight: FontWeight.w300,
@@ -210,7 +208,7 @@ SizedBox(height: 30,),
                           BoxConstraints(maxWidth: 300.0, minHeight: 50.0),
                       alignment: Alignment.center,
                       child: Text(
-                        "Contact me",
+                        "تواصل معي",
                         style: TextStyle(
                             color: Colors.black54,
                             fontSize: 26.0,
